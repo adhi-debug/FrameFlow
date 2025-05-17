@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Build output
+/build/
+.captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# Jetpack Compose preview cache
+.compose-cache/
